@@ -844,6 +844,7 @@ Name | Website | Region
 [XWP](/company-profiles/xwp.md) | https://xwp.co/ | Worldwide
 [Yahoo!](/company-profiles/yahoo.md) | https://www.yahooinc.com/ | Worldwide
 [Yandex](/company-profiles/yandex.md) | https://yandex.com/ | Worldwide
+[technobrains](/company-profiles/technobrains.io) | https://technobrains.io/| Worldwide
 [YAZIO](/company-profiles/yazio.md) | https://www.yazio.com/en/jobs | Europe
 [Yodo1](/company-profiles/yodo1.md) | https://www.yodo1.com/en/ | Worldwide
 [Yonder](/company-profiles/yonder.md) | https://www.yonder.io | Worldwide
@@ -861,3 +862,4 @@ Name | Website | Region
 [Zolar](/company-profiles/zolar.md) | https://www.zolar.de/ | Germany
 [ZooTools](/company-profiles/zootools.md) | https://zootools.co/ | Worldwide
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
+[10up](/company-profiles/[10up.md](https://technobrains.io/)) | https://10up.com/ | Worldwide
